@@ -4,6 +4,7 @@ Note: Let's not reinvent the wheel. Everyone already knows its an NP-Hard Proble
 ## Overview 
 ![Volunteer Route Problem](vrp_starts_ends.svg)
 Figure 1: Black are the points of origin of the Volunteers and Blue are the targets. (We will be using map data and not grids!)
+
 The goal is to find optimal routes for multiple Volunteers visiting a set of a known locations. The Volunteers originate from different base stations. (When there's only one volunteer, it reduces to the Traveling Salesman Problem.)
 
 *Optimal Route Definition (Tentative)*: Minimize the length of the longest single route among all volunteers.
