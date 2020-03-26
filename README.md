@@ -12,9 +12,11 @@ Please find link to a more detailed document on the different PRC programs. We a
 
 	Mobile App Used by trained Volunteers to collect symptom data from the community. [App Prototype](https://www.figma.com/proto/TtIl1Rei7WY6vMf7upypjA/Material-Design-Theme-Kit-Mine?node-id=22551%3A33034&scaling=scale-down)
 
+
 2. PRC Emergency Management Platform
 
 	Mobile App used by Doctors and Intake Staff at PRC Emergency Facilities to Triage patients. This is combined with web dashboard used by Facility Coordinators to provide realtime intake data to the Ops Center 
+
 
 3. PRC OPS Room
 
