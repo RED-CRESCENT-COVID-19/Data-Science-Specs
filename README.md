@@ -29,20 +29,13 @@ To acheive the PRC goal of collecting information from the field and allocating 
 2. [COVID-19 Symptoms Data Set](./Symptoms/Symptoms-Data-Set.md)
 
 3. [Location Intelligence](./Location/Location-Intelligence.md)
-	Detailed Location Maps
-	Demographic Data
 
-4. Seeding Analytics
-	Origin Destination Matrices
+4. [Seeding Analytics](./Seeding/Seeding-Analytics.md)
 
 5. Demand Forecasting
-	Call Center
-	
 
 6. Agent Analytics
 	Care for the Carer
 	Interaction Analytics
 
 7. Report Generation (Dashboard UI + Metrics)
-
-
