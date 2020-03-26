@@ -10,15 +10,15 @@ Please find link to a more detailed document on the different PRC programs. We a
 
 1. PRC Muhafiz App
 
-Mobile App Used by trained Volunteers to collect symptom data from the community. [App Prototype](https://www.figma.com/proto/TtIl1Rei7WY6vMf7upypjA/Material-Design-Theme-Kit-Mine?node-id=22551%3A33034&scaling=scale-down)
+	Mobile App Used by trained Volunteers to collect symptom data from the community. [App Prototype](https://www.figma.com/proto/TtIl1Rei7WY6vMf7upypjA/Material-Design-Theme-Kit-Mine?node-id=22551%3A33034&scaling=scale-down)
 
 2. PRC Emergency Management Platform
 
-Mobile App used by Doctors and Intake Staff at PRC Emergency Facilities to Triage patients. This is combined with web dashboard used by Facility Coordinators to provide realtime intake data to the Ops Center 
+	Mobile App used by Doctors and Intake Staff at PRC Emergency Facilities to Triage patients. This is combined with web dashboard used by Facility Coordinators to provide realtime intake data to the Ops Center 
 
 3. PRC OPS Room
 
-Ops Room will become a nerve centre for flow of all information received from community, our volunteers reaching out to the community through home visits, referrals to our helpline, cases screened and treated at our Corona Care Hospital, and referral / transfer of cases to hospitals linked with us. The data so collected will be shared with Ministry of Health, and NDMA to support their operations.
+	Ops Room will become a nerve centre for flow of all information received from community, our volunteers reaching out to the community through home visits, referrals to our helpline, cases screened and treated at our Corona Care Hospital, and referral / transfer of cases to hospitals linked with us. The data so collected will be shared with Ministry of Health, and NDMA to support their operations.
 
 ## Teams
 To acheive the PRC goal of collecting information from the field and allocating resources based on a data based approach we require teams solving the following problems.
