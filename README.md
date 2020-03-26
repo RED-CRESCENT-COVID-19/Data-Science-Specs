@@ -25,9 +25,8 @@ Please find link to a more detailed document on the different PRC programs. We a
 ## Teams
 To acheive the PRC goal of collecting information from the field and allocating resources based on a data based approach we require teams solving the following problems.
 1. [Route Management](./Route/Route_Management.md)
-	Find optimal routes for multiple Volunteers visiting a set of a known locations.
 
-2. COVID-19 Symptoms Data Set
+2. [COVID-19 Symptoms Data Set](./Symptoms/Symptoms-Data-Set.md)
 
 3. Location Based Data Analysis
 
