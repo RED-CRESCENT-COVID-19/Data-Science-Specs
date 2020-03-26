@@ -27,9 +27,9 @@ There are three basic elements to developing a GIS system for disease.
 
 * The second element to developing a GIS system for disease is recording the relevant baseline data for each health facility. The most relevant data required for COVID-19 is as follows:
 
-1. Location of the health facilities
-2. Number of Registered Cases
-3. Number of New Cases Detected during a day 
+	1. Location of the health facilities
+	2. Number of Registered Cases
+	3. Number of New Cases Detected during a day 
 
 * The third element is exposure assessment and mapping. Typically always seen as an analytical weakness, the quality of exposure data, or reported accuracy of the spatial reach of epidemics, is especially important in spatial epidemiology.
 
