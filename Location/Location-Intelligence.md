@@ -20,6 +20,19 @@ What kinds of geographic questions can you come up with in regards to COVID-19 a
 
 Where? Why? What if?
 
+## Steps in Developing a GIS system
+There are three basic elements to developing a GIS system for disease. 
+
+* The first, geographic element, involves the accurate recording of the location of each health facility in the country. A list must first be compiled of the health facilities with their full address, and if readily available, the geographical coordinates (expressed in terms of latitude and longitude position) of the health facilities. 
+
+* The second element to developing a GIS system for disease is recording the relevant baseline data for each health facility. The most relevant data required for COVID-19 is as follows:
+
+1. Location of the health facilities
+2. Number of Registered Cases
+3. Number of New Cases Detected during a day 
+
+* The third element is exposure assessment and mapping. Typically always seen as an analytical weakness, the quality of exposure data, or reported accuracy of the spatial reach of epidemics, is especially important in spatial epidemiology.
+
 ## Deliverables
-1. Visulizations that make sense. [See this for a high level overview](https://www.esri.com/arcgis-blog/products/product/mapping/mapping-coronavirus-responsibly/)
+1. Disease Visulizations that make sense. [See this for a high level overview](https://www.esri.com/arcgis-blog/products/product/mapping/mapping-coronavirus-responsibly/)
 2. Metrics for Disease prevalance and severity by locations
