@@ -34,8 +34,6 @@ To acheive the PRC goal of collecting information from the field and allocating 
 
 5. Demand Forecasting
 
-6. Agent Analytics
-	Care for the Carer
-	Interaction Analytics
+6. Agent Analytics (Care for the Carer)
 
 7. Report Generation (Dashboard UI + Metrics)
