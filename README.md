@@ -32,7 +32,7 @@ To acheive the PRC goal of collecting information from the field and allocating 
 
 4. [Seeding Analytics](./Seeding/Seeding-Analytics.md)
 
-5. Demand Forecasting
+5. [Demand Forecasting](./Demand-Forecasting/Demand-Forecasting.md)
 
 6. Agent Analytics (Care for the Carer)
 
