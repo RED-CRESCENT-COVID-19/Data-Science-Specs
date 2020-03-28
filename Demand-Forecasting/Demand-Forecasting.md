@@ -1,9 +1,10 @@
 # Demand Forecasting
-We therefore assume that two-thirds of cases are sufficiently symptomatic to self-isolate (if required by policy) within 1 day of symptom onset, and a
-mean delay from onset of symptoms to hospitalisation of 5 days. 
+We assume two-thirds of cases are sufficiently symptomatic to self-isolate (if required by policy) within 1 day of symptom onset, and a mean delay from onset of symptoms to hospitalisation of 5 days. 
 
 [Data](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf) shows that upto 30% of those that are hospitalised will require critical care (invasive mechanical ventilation or ECMO) based on early reports from COVID-19 cases in the UK,
-China and Italy (Professor Nicholas Hart, personal communication). Bed demand numbers assuming a total duration of stay in hospital of 8 days if critical care is not required and 16 days (with 10 days in ICU) if critical care is required. With 30% of hospitalised cases requiring critical care, we obtain an overall mean duration of hospitalisation of 10.4 days. 
+China and Italy. 
+
+Assuming a total duration of stay in hospital of 8 days if critical care is not required and 16 days (with 10 days in ICU) if critical care is required. With 30% of hospitalised cases requiring critical care, we obtain an overall mean duration of hospitalisation of 10.4 days. 
 
 ## Objective
 
