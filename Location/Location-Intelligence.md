@@ -1,4 +1,4 @@
-# Local Intelligence
+# Location Intelligence
 The PRC Muhafiz Volunteers will be sending live data from the field, that will require real time visulization and analysis.
 
 # Objective
@@ -27,9 +27,19 @@ There are three basic elements to developing a GIS system for disease.
 
 * The second element to developing a GIS system for disease is recording the relevant baseline data for each health facility. The most relevant data required for COVID-19 is as follows:
 
-	1. Location of the health facilities
-	2. Number of Registered Cases
-	3. Number of New Cases Detected during a day 
+1. Location of the health facilities
+
+Potential Data Sources: 
+- https://data.humdata.org/dataset/pakistan-health/resource/fd6e16f8-080d-46e7-86a3-a194099edfa9
+- https://data.humdata.org/dataset/hotosm_pak_health_facilities
+	- See Tableua notebook here https://public.tableau.com/profile/zaki5466#!/vizhome/HospitalsinPK/Dashboard1?publish=yes
+
+How good is this data? Here are some provincial level numbers to validate http://www.pbs.gov.pk/content/hospitalsdispensaries-and-beds-province
+
+2. Number of Registered Cases
+
+- 
+3. Number of New Cases Detected during a day 
 
 * The third element is exposure assessment and mapping. Typically always seen as an analytical weakness, the quality of exposure data, or reported accuracy of the spatial reach of epidemics, is especially important in spatial epidemiology.
 
